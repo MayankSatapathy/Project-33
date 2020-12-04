@@ -1,1 +1,1 @@
-# Project-33
+# plinko-2-scores
